@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @erikasntn
-- 👀 I’m interested in always learn
-- 🌱 I’m currently learning html, css and c
-- 💞️ I’m looking to collaborate on a company
-- 📫 How to reach me - erikaln54@gmail.com
+## Me chamo Erika Santana e sou estudante de ADS!
 
-<!---
-erikasntn/erikasntn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>
+  <href a = "https://github.com/erikasntn/erikasntn">
+    <img height ="180em" src ="https://github-readme-stats.vercel.app/api?username=erikasntn_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height ="180em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=erikasntn&layout=compact&langs_count=168theme=dracula"/>
+  </div>
