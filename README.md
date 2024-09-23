@@ -12,7 +12,7 @@
   <img align="center" alt="Erika-CSS" height="30" width="40" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Erika-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">   
-  <img align="center" alt="Erika-angularjs" height="30" width="40" src="./icons/Angular-Dark.svg" width="48">
+  <img align="center" alt="Erika-angularjs" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" width="48">
   <img align="center" alt="Erika-Azure" height="30" width="40" src="./icons/Azure-Dark.svg" width="48"> 
   <img align="center" alt="Erika-bootstrap" height="30" width="40" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
