@@ -13,7 +13,9 @@
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Erika-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">   
   <img align="center" alt="Erika-angularjs" height="30" width="40" 
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+    <img src="./icons/Angular-Dark.svg" width="48">
+  <img align="center" alt="Erika-Azure" height="30" width="40" 
+   <img src="./icons/Azure-Dark.svg" width="48"> 
   <img align="center" alt="Erika-bootstrap" height="30" width="40" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
  <img align="center" alt="Erika-sqlserver" height="30" width="40"
